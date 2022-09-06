@@ -10,6 +10,6 @@
 ## Equation soliving:
     User has to enter first equation and after submit, enter second equation
 ### Format:
-    a11 + a12 = b1
-    a21 + a22 = b2
+    a11x + a12y = b1
+    a21x + a22y = b2
 And then program will print out the solution
