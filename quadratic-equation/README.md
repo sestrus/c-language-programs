@@ -10,4 +10,4 @@
 ## Equation soliving:
     User has to enter a equation in format:
     ax^2+bx+c=0
-And then program will print out solution
+And then program will print out the solution
